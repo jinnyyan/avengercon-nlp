@@ -1,0 +1,42 @@
+For word: # sorry taking a while... my computer is slow... and so is accessing the data it appearscat
+-
+
+For word: dog
+dogs
+puppy
+pit_bull
+pooch
+cat
+golden_retriever
+German_shepherd
+Rottweiler
+beagle
+pup
+
+For word: army
+armed_forces
+military
+Army
+soldiers
+navy
+armies
+forces
+battalions
+Defense_Forces
+troops
+
+For word: cyber
+cybercrime
+cybersecurity
+cyberspace
+cyber_warfare
+cyberattacks
+Cyber_Security
+cyberwarfare
+cyberattack
+hackers
+cyberwar
+
+For word: 
+-
+

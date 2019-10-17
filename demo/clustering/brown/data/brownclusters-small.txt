@@ -1,0 +1,7 @@
+the					0000
+house					0001
+is					001
+by					0
+dog					1
+cat					01
+that					1
